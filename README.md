@@ -1,3 +1,5 @@
+<img width="100%" height="auto" src="https://github.com/Privetpatrick/Privetpatrick/blob/main/banner.jpg" />
+
 <h1 align="center">Hi 👋, I'm Sasha.</h1>
 <h3 align="center">I'm a developer from Ukraine</h3>
 
